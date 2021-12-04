@@ -3,7 +3,6 @@
 ## förutsättning
 - ha php 8 i datorn (`php -v`)
 - ha composer (`composer -v`)
-- öppna terminalen, navigera till denna mapp
 
 
 ## steg (demo)
